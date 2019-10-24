@@ -2,7 +2,7 @@
 
 ## Custom Additions
 
-I added animations, so you require an extra tap but the 8 ball fades in and out on two taps.
+I added animations, so you require an extra tap but the 8 ball fades in and out on two taps. <br>
 <img src="demo.gif"/>
 
 ## Our Goal
