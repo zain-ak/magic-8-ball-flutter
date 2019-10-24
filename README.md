@@ -1,7 +1,9 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
 # Magic 8 Ball 🎱
+
+## Custom Additions
+
+I added animations, so you require an extra tap but the 8 ball fades in and out on two taps.
+<img src="demo.gif"/>
 
 ## Our Goal
 

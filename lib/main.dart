@@ -17,11 +17,12 @@ class BallPage extends StatefulWidget {
   _Ball createState() => _Ball();
 }
 
-class _Ball extends State<BallPage> with TickerProviderStateMixin {
+class _Ball extends State<BallPage> {
   int _ballIndex = 1;
   bool _visible = true;
 
   int indexUpdate() {
+
     return Random().nextInt(5) + 1;
   }
 
